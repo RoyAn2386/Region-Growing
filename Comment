@@ -1,0 +1,4 @@
+If you download and run it and it doesn't work. 
+
+Add this line in main funciton:
+seeds = list()
